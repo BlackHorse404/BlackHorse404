@@ -20,7 +20,7 @@
 <!-- viewer -->
 <br>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=informational" alt="viewer"/>
+  <img src="https://komarev.com/ghpvc/?username=phatlino&style=flat-square&color=informational" alt="viewer"/>
 </div>
 
 <div align="center">
