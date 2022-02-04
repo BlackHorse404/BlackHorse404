@@ -30,7 +30,7 @@
   </h1>
 </div>
 
-![BlackHorse's GitHub stats](https://github-readme-stats.vercel.app/api?username=phatlino&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![BlackHorse's GitHub stats](https://github-readme-stats.vercel.app/api?username=phatlino&show_icons=true&theme=radical)&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phatlino&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br>
