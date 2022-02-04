@@ -4,10 +4,10 @@
 
 <div align="center" id="badges">
   <h1>Contact with me</h1><br>
-  <a href="https://www.facebook.com/Phat.Lino.2K2">
+  <a target="_blank" href="https://www.facebook.com/Phat.Lino.2K2">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCaAad_2j9fKlznBhT2BhlHQ">
+  <a target="_blank" href="https://www.youtube.com/channel/UCaAad_2j9fKlznBhT2BhlHQ">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
   </a>
   <a href="mailto:Phatlongtoan@gmail.com">
