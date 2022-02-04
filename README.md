@@ -1,10 +1,5 @@
-<div id="intro" align="center">
-  <img src="https://c4.wallpaperflare.com/wallpaper/810/434/397/leaves-green-plant-flora-wallpaper-preview.jpg" width="100%"/>
-</div>
-<br>
-
 <div id="header" align="center">
-  <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" width="340"/>
+  <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" width="800vh"/>
 </div>
 
 <div align="center" id="badges">
@@ -33,3 +28,6 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
+
+![BlackHorse's GitHub stats](https://github-readme-stats.vercel.app/api?username=phatlino&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phatlino&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
