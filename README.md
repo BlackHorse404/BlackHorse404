@@ -4,7 +4,7 @@
 
 <div align="center" id="badges">
   <h1>Contact with me</h1><br>
-  <a target="_blank" href="https://www.facebook.com/Phat.Lino.2K2">
+  <a target="_blank" href="https://www.facebook.com/BlackHorse.404">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a target="_blank" href="https://www.youtube.com/channel/UCaAad_2j9fKlznBhT2BhlHQ">
