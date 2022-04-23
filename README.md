@@ -23,7 +23,7 @@
 <!-- viewer -->
 <br>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=phatlino&style=flat-square&color=informational" alt="viewer"/>
+  <img src="https://komarev.com/ghpvc/?username=BlackHorse404&style=flat-square&color=informational" alt="viewer"/>
 </div>
 
 <div align="center">
@@ -33,8 +33,8 @@
   </h1>
 </div>
 
-![BlackHorse's GitHub stats](https://github-readme-stats.vercel.app/api?username=phatlino&show_icons=true&theme=radical)&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phatlino&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![BlackHorse's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackHorse404&show_icons=true&theme=radical)&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackHorse404&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br>
 <div align="center">
